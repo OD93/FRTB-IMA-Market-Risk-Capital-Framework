@@ -1,0 +1,7 @@
+Project_Area,Result,Methodology
+Historical ES (97.5%),2.3043%,Equal-weighted historical portfolio proxy
+Maximum Stress ES,15.3444%,Illustrative COVID stress-period analysis
+NMRF SSRM,15.5581%,Simplified stress ES proxy
+DRC 99.9% Tail Loss,"$525,000.00",Independent-default simulation
+Backtesting Exceptions,9 (1.26%),Rolling 250-day VaR comparison
+PLAT Correlation,0.9952,Illustrative HPL vs RTPL comparison

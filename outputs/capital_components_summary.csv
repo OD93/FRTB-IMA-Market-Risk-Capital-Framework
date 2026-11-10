@@ -1,0 +1,4 @@
+Capital_Component,Risk_Measure,Unit,Methodology
+Historical ES (97.5%),0.023042844126726143,Return,Equal-weighted historical ES
+Illustrative NMRF SSRM,0.15558128742921717,Return,Simplified stress ES proxy
+Illustrative DRC (99.9%),525000.0,USD,Independent-default simulation

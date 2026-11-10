@@ -1,0 +1,7 @@
+Metric,Value
+Total Observations,713
+Observed Exceptions,9
+Expected Exceptions,7.13
+Observed Exception Rate,1.26%
+Expected Exception Rate,1.00%
+Assessment,Above Expected Exception Rate
