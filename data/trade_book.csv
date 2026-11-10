@@ -1,0 +1,13 @@
+Trade_ID,Instrument,Asset_Class,Product_Type,Position,Notional,Market_Value,Currency,Issuer,Maturity,Option_Type
+TR001,Apple Stock,Equity,Cash Equity,Long,500000,500000,USD,Apple,,
+TR002,Microsoft Stock,Equity,Cash Equity,Long,300000,300000,USD,Microsoft,,
+TR003,US Treasury Bond,Interest Rate,Government Bond,Long,1000000,980000,USD,US Treasury,2030-12-31,
+TR004,Corporate Bond A,Credit,Corporate Bond,Long,800000,780000,USD,Company A,2029-06-30,
+TR005,EUR/USD Forward,FX,FX Forward,Long,500000,500000,USD,,2027-06-30,
+TR006,Gold Futures,Commodity,Futures,Long,400000,400000,USD,,2027-03-31,
+TR007,Apple Call Option,Equity,Option,Long,200000,25000,USD,Apple,2027-01-15,Call
+TR008,Microsoft Put Option,Equity,Option,Long,150000,18000,USD,Microsoft,2027-02-15,Put
+TR009,Interest Rate Swap,Interest Rate,IRS,Long,2000000,35000,USD,Bank A,2030-12-31,
+TR010,USD/INR Forward,FX,FX Forward,Long,600000,600000,USD,,2027-09-30,
+TR011,Silver Futures,Commodity,Futures,Short,300000,300000,USD,,2027-04-30,
+TR012,Corporate Bond B,Credit,Corporate Bond,Long,900000,875000,USD,Company B,2031-03-31,

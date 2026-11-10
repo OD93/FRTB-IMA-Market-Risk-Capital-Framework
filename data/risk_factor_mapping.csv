@@ -1,0 +1,13 @@
+Trade_ID,Risk_Factors
+TR001,Equity Price
+TR002,Equity Price
+TR003,Interest Rate
+TR004,"Interest Rate, Credit Spread"
+TR005,"FX Rate, Interest Rate"
+TR006,Commodity Price
+TR007,"Equity Price, Implied Volatility, Interest Rate"
+TR008,"Equity Price, Implied Volatility, Interest Rate"
+TR009,Interest Rate
+TR010,"FX Rate, Interest Rate"
+TR011,Commodity Price
+TR012,"Interest Rate, Credit Spread"
